@@ -3,7 +3,7 @@
   "description": "Informix DB driver for Laravel 6",
   "keywords": ["informix", "laravel", "laravel 6", "ifx" ],
   "license": "MIT",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "authors": [
     {
       "name": "dsandrade",
